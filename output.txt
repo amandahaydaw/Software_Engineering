@@ -1,0 +1,4 @@
+[20200717,08:49:15] INFO: current time before converting to seconds 0
+[20200717,08:49:15] DEBUG: Debug logs
+[20200717,08:49:15] INFO: Info logs
+[20200717,08:49:15] ERROR: Error logs
