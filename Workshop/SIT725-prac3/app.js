@@ -20,8 +20,8 @@ app.get('/adder',function(req,res)
 {
     let num1=parseInt(req.query.num1);
     let num2=parseInt(req.query.num2);
-    let myresult = num1+num2;
-    res.json({result:myresult})
+    let result = num1+num2;
+    res.json({result:result})
 })
 
 var port=3000;
